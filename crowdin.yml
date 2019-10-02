@@ -1,4 +1,3 @@
-
 files:
   - source: /guide/**/*.md
     ignore:
